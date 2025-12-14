@@ -1,1 +1,2 @@
-Line from conflict branch One
+Resolved line from both branches
+
